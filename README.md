@@ -1,13 +1,8 @@
-# Node JS Zoom Clone
+# Welcome to the source code of AllCall
+Well, AllCall is a open source platform where anyone can video chat with other people.
+## What's special about it
+In other video chat apps, one need to make their own id and password then download the app setup the app blablabla. But in AllCall, just enter the url and join the room without going through the whole process.
+### Link to AllCall
+https://justallcall.herokuapp.com/
 
-Credit to [Web Dev Simplified](https://www.youtube.com/watch?v=DvlyzDZDEq4)
-
-### Want to join the BEST JavaScript Course on the planet and learn how to build the projects like Zoom Clone with JavaScript, NodeJS, and MongoDB?
-
-Check out our `Profit With JavaScript Course`    :point_down: 
-
-[Click Here](https://cleverprogrammer.unstacksite.com/pwj?utm_source=github&utm_medium=repo&utm_content=5-aug-live-zoom-clone-youssef-naz&utm_campaign=live-everyday&utm_term=warm)
-
-Made with :heart: by [Naz](https://www.instagram.com/nazdumanskyy/) & [Youssef](https://www.instagram.com/youcef.dev/)
-
-
+And sorry about the frontend, it may be a bit messy but works fine.

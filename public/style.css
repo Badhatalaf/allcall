@@ -4,6 +4,7 @@
     height: 100vh;
     display: flex;
     font-family: 'Poppins';
+    flex-wrap: wrap;
 }
 
 .main__left {
